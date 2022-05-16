@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/LojaVirtualAtletica/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/LojaVirtualAtletica/app/src/main/res/layout/activity_usuario_perfil.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/thiag/AndroidStudioProjects/LojaVirtualAtletica/app/src/main/res/layout/menu_navigation_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_produto_detalhe.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_produto_detalhe_acitivity.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_produto_detalhe_activity.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.25226449275362317" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_splash2.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_usuario_cadastro.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/activity_usuario_login.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/activity_usuario_perfil.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/menu_header_layout.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/menu_navigation_view.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/layout/menu_toolbar_layout.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/menu/menu_drawer.xml" value="0.3651041666666667" />
+        <entry key="app/src/main/res/xml/settings.xml" value="0.25226449275362317" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

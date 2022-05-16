@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Loja Virtual Atlética - IFSP Araraquara</string>
+    <!-- Tela ProdutoDetalhe -->
+    <string name="produto_detalhe_btn_comprar">Comprar</string>
+    <string name="produto_detalhe_txt_descricao">Descrição</string>
+    <!-- Menu Drawer -->
+    <string name="menu_drawer_sair">Sair</string>
+    <string name="menu_drawer_meu_carrinho">Meu Carrinho</string>
+    <string name="menu_drawer_minhas_compras">Minhas Compras</string>
+    <string name="menu_drawer_categorias">Categorias</string>
+    <string name="menu_drawer_minha_conta">Minha Conta</string>
+    <string name="menu_drawer_home">Home</string>
+    <!-- Tela Principal -->
+    <string name="toogle_open">open</string>
+    <string name="toogle_close">close</string>
+    <!-- Tela UsuarioCadastro -->
+    <string name="usuario_cadastro_nome">Nome</string>
+    <string name="usuario_cadastro_email">E-mail</string>
+    <string name="usuario_cadastro_senha">Senha</string>
+    <string name="usuario_cadastro_cadastrar">CADASTRAR</string>
+    <string name="usuario_cadastro_titulo">Cadastro de Usuário</string>
+    <!-- Tela Login -->
+    <string name="usuario_login_entrar">ENTRAR</string>
+    <string name="usuario_login_titulo">Login</string>
+    <!-- Tela Perfil -->
+    <string name="usuario_perfil_sobrenome">Sobrenome</string>
+    <string name="usuario_perfil_logradouro">Logradouro (Avenida, Rua...)</string>
+    <string name="usuario_perfil_numero">Número</string>
+    <string name="usuario_cadastro_complemento">Complemento</string>
+    <string name="usuario_cadastro_bairro">Bairro</string>
+    <string name="usuario_cadastro_cidade">Cidade</string>
+    <string name="usuario_cadastro_cep">CEP</string>
+    <string name="usuario_perfil_atualizar">ATUALIZAR</string>
+    <string name="usuario_perfil_titulo">Perfil</string>
+    <string name="msg_login">E-mail/Senha inválidos!</string>
+    <string name="msg_perfil_sucesso">Dados atualizados com sucesso!</string>
+    <string name="settings_titulo">Configurações</string>
+    <string name="menu_drawer_settings">Configurações</string>
+    <!-- nomes das Unidades Federativas do Brasil -->
+    <string-array name="uf">
+        <item>Acre (AC)</item>
+        <item>Alagoas (AL)</item>
+        <item>Amapá (AP)</item>
+        <item>Amazonas (AM)</item>
+        <item>Bahia (BA)</item>
+        <item>Ceará (CE)</item>
+        <item>Distrito Federal (DF)</item>
+        <item>Espírito Santo (ES)</item>
+        <item>Goias (GO)</item>
+        <item>Maranhão (MA)</item>
+        <item>Mato Grosso (MT)</item>
+        <item>Mato Grosso do Sul (MS)</item>
+        <item>Minas Gerais (MG)</item>
+        <item>Pará (PA)</item>
+        <item>Paraíba (PB)</item>
+        <item>Paraná (PR)</item>
+        <item>Pernambuco (PE)</item>
+        <item>Piauí (PI)</item>
+        <item>Rio de Janeiro (RJ)</item>
+        <item>Rio Grande do Norte (RN)</item>
+        <item>Rio Grande do Sul (RS)</item>
+        <item>Rondônia (RO)</item>
+        <item>Roraima (RR)</item>
+        <item>Santa Catarina (SC)</item>
+        <item>São Paulo (SP)</item>
+        <item>Sergipe (SE)</item>
+        <item>Tocantins (TO)</item>
+    </string-array>
+
+</resources>
