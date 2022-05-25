@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629482436502",
+    "project_id": "lojavirtualatletica-dmo",
+    "storage_bucket": "lojavirtualatletica-dmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629482436502:android:1947ebe2f1353f5e628fb7",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.arq.dmo5.lojavirtualatletica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629482436502-qaate0lo3johjpolmfi01o4ojmnda40q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_sQA75g35wW4a5rh9FPNsY7RUWQbmcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629482436502-qaate0lo3johjpolmfi01o4ojmnda40q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

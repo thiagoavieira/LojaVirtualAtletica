@@ -36,6 +36,7 @@
     <string name="msg_perfil_sucesso">Dados atualizados com sucesso!</string>
     <string name="settings_titulo">Configurações</string>
     <string name="menu_drawer_settings">Configurações</string>
+    <string name="msg_erro_senha">A senha tem que ter 6 ou mais caracteres.</string>
     <!-- nomes das Unidades Federativas do Brasil -->
     <string-array name="uf">
         <item>Acre (AC)</item>

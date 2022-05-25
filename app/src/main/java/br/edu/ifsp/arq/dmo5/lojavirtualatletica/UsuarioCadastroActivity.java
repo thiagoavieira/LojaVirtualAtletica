@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.material.textfield.TextInputEditText;
 
@@ -60,16 +61,22 @@ public class UsuarioCadastroActivity extends AppCompatActivity {
                             txtSenha.getText().toString(),
                             ""
                     );
-                    // insere um novo usuário no BD
-                    usuarioViewModel.createUsuario(usuario);
-                    // efetua o login do novo usuario
-                    usuarioViewModel.login(usuario.getEmail(), usuario.getSenha())
-                            .observe(UsuarioCadastroActivity.this, new Observer<Usuario>() {
-                                @Override
-                                public void onChanged(Usuario usuario) {
-                                    finish();
-                                }
-                            });
+                    if(usuario.getSenha().length() >= 6){
+                        // insere um novo usuário no BD
+                        usuarioViewModel.createUsuario(usuario);
+                        // efetua o login do novo usuario
+                        usuarioViewModel.login(usuario.getEmail(), usuario.getSenha())
+                                .observe(UsuarioCadastroActivity.this, new Observer<Usuario>() {
+                                    @Override
+                                    public void onChanged(Usuario usuario) {
+                                        finish();
+                                    }
+                                });
+                    }else {
+                        Toast.makeText(UsuarioCadastroActivity.this,
+                                R.string.msg_erro_senha,
+                                Toast.LENGTH_SHORT).show();
+                    }
                 }
             }
         });
